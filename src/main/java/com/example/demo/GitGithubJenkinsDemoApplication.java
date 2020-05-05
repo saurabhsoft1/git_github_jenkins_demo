@@ -15,6 +15,7 @@ public class GitGithubJenkinsDemoApplication {
 	@PostConstruct
 	public void intt() {
 	   logger.info("Application Started.....");	
+	   logger.info("Application Again Started .....");	
 	}
 	
 	public static void main(String[] args) {
