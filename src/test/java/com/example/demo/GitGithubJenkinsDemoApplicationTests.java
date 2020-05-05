@@ -17,7 +17,7 @@ class GitGithubJenkinsDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("Testing Started new .....");
+		logger.info("Testing Started again.....");
 		assertEquals(true, true);
 	}
 
